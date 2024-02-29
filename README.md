@@ -11,4 +11,4 @@ The objective function consists of two terms:
 
 2) f-divergence between the joint distribution of predictions and sensitive attributes and the product of their marginals. This term will be zero if and only if the model is fair under the demographic parity notion.
 
-By determining lambda, one can specify a tradeoff between fairness and accuracy.
+By determining lambda, one can specify a tradeoff between fairness and accuracy.  
